@@ -1,10 +1,9 @@
 # Aashu-Intellibot 
 
-##  Overview
+##  Project Description
 
-Aashu-Intellibot is a smart web-based assistant designed to solve **arithmetic problems, reasoning questions, and general knowledge queries**.
-It combines **rule-based logic + AI-powered responses** to provide accurate and user-friendly answers.
-
+INTELLIBOT AI is a smart web-based assistant designed to solve arithmetic problems, logical reasoning questions, and general knowledge queries.
+It combines rule-based concept solvers with AI-powered explanations to deliver accurate and user-friendly responses.
 
 ##  Features
 
