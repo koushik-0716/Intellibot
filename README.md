@@ -2,7 +2,7 @@
 
 ##  Overview
 
-Aashu AI is a smart web-based assistant designed to solve **arithmetic problems, reasoning questions, and general knowledge queries**.
+Aashu-Intellibot is a smart web-based assistant designed to solve **arithmetic problems, reasoning questions, and general knowledge queries**.
 It combines **rule-based logic + AI-powered responses** to provide accurate and user-friendly answers.
 
 
@@ -50,23 +50,22 @@ The system follows a layered approach:
 4. **AI Engine** → Handles complex and unknown queries
 
 
-##  Tech Stack
-
-* Python (Flask)
-* HTML, CSS, JavaScript
-* Wikipedia API
-* Google Generative AI (Gemini)
-
+**##Technologies Used**
+Backend: Python (Flask)
+Frontend: HTML, CSS, JavaScript
+APIs & Libraries:
+Wikipedia API (knowledge retrieval)
+Google Generative AI (Gemini)
+Data Handling: JSON (memory storage)
 
 ##  Project Structure
 
-aashu_ai/
+aashu_intellibot/
 │
 ├── app.py
 ├── memory.json
 └── templates/
     └── index.html
-
 
 
 ##  Use Cases
@@ -85,8 +84,3 @@ aashu_ai/
 * User login & progress tracking
 
 
-##  Conclusion
-
-Aashu AI is a beginner-to-intermediate level intelligent assistant that demonstrates how **AI + logic-based systems** can be combined to build real-world applications.
-
----
