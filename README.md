@@ -59,7 +59,7 @@ Data Handling: JSON (memory storage)
 
 ##  Project Structure
 
-aashu_intellibot/
+Tessy-AI/
 │
 ├── app.py
 ├── memory.json
@@ -77,8 +77,8 @@ aashu_intellibot/
 
 ##  Future Enhancements
 
-* Voice assistant 🎤
-* Mobile app (Android) 📱
+* Voice assistant 
+* Mobile app (Android) 
 * Advanced reasoning (puzzles, seating arrangement)
 * User login & progress tracking
 
