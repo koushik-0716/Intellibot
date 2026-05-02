@@ -1,4 +1,4 @@
-# Aashu-Intellibot 
+# Tessy-AI
 
 ##  Project Description
 
