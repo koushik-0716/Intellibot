@@ -2,7 +2,7 @@
 
 ##  Project Description
 
-INTELLIBOT AI is a smart web-based assistant designed to solve arithmetic problems, logical reasoning questions, and general knowledge queries.
+Tessy-AI AI is a smart web-based assistant designed to solve arithmetic problems, logical reasoning questions, and general knowledge queries.
 It combines rule-based concept solvers with AI-powered explanations to deliver accurate and user-friendly responses.
 
 ##  Features
